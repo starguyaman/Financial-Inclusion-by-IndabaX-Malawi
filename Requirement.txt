@@ -1,0 +1,15 @@
+======= Requirement =============
+-- Language
+1. Python -- version-- 3.7.11
+
+-- Packages used
+1. pandas      -- version --   1.1.5
+2. numpy       -- version --   1.19.5
+3. sklearn     -- version --   3.2.2
+4. tensorflow  -- version --   2.5.0
+5. keras       -- version --   2.5.0
+6. matplotlib  -- version --   0.22.2.post1
+
+-- Enviroment & other details
+1. Enviroment --> Google Colab 
+2. Runtime type --> Hardware accelerator GPU
