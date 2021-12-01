@@ -41,9 +41,7 @@ The objective of this competition is to create a machine learning model to predi
 __`Team Zindi (Our Team Name)`__
 |Members|
 |:-|
-|[Darkstar](https://github.com/DarkstarDream) (me)| 
+|[Aman Kumar Verma](https://github.com/buggyprogrammer) (me)| 
 |[Emmanuel Mwinama](https://github.com/emmmwinama)| 
 |[Innocent Charles](https://github.com/innocoder-official)| 
 |[Pijampola](https://github.com/pbijampola)| 
-
-This solution is by me
